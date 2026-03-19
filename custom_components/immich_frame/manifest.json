@@ -1,0 +1,12 @@
+{
+  "domain": "immich_frame",
+  "name": "Immich Frame",
+  "codeowners": ["@Seekersdk"],
+  "config_flow": true,
+  "dependencies": [],
+  "documentation": "https://github.com/Seekersdk/immichphoto-home-assistant",
+  "iot_class": "local_polling",
+  "issue_tracker": "https://github.com/Seekersdk/immichphoto-home-assistant/issues",
+  "requirements": ["url-normalize==1.4.3"],
+  "version": "0.2.0"
+}
